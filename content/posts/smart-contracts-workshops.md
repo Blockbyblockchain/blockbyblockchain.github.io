@@ -1,5 +1,5 @@
 ---
-title: "Smart Contract Basic"
+title: "Smart Contract Workshops"
 date: 2017-09-14T21:06:00-03:00
 draft: false
 ---
