@@ -42,7 +42,7 @@ publishDir = "."
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Making The Blockchain Happen"
+		slogan     = "Making The Blockchain Revolution Happen"
 		subtitle   = "Blockchain technology is the most revolutionary technology since the advent of the internet. Don't be left behind."
 		buttonText = "Find out more"
 
