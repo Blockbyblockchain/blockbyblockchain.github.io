@@ -1,0 +1,109 @@
+baseurl = "https://blockbyblockchain.com/"
+languageCode = "en-us"
+title = "Block by Blockchain"
+theme = "hugo-creative-theme"
+googleAnalytics = ""
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# All icons using Fontawesome's icon font. Look at http://fontawesome.io/icons/
+	# for more icons. The icons are represented by their corresponding
+	# CSS class.
+
+	# All projects of the portfolio are defined in their own files.
+	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+	# folder into the 'data' directory at the root of this Hugo site.
+	# For more information take a look at the README.
+
+	# To provide some metadata for search engines feel free to add some
+	# information about you and your website.
+	name = "Block by Blockchain"
+	description = "Making The Blockchain Revolution Happen"
+
+	# The path must be relative to the static folder
+	favicon = "favicon.ico"
+
+
+	# Navigation
+	[params.navigation]
+		brand = "Block by Blockchain"
+
+		[params.navigation.links]
+			about     = "About"
+			services  = "Services"
+			portfolio = "Portfolio"
+			contact   = "Contact"
+
+
+	# Hero section
+	[params.hero]
+		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+		slogan     = "Making The Blockchain Happen"
+		subtitle   = "Blockchain technology is the most revolutionary technology since the advent of the internet. Don't be left behind."
+		buttonText = "Find out more"
+
+
+	# About section
+	[params.about]
+		headline    = "Top training and consulting"
+		description = "Our one-day *deep-dive* Workshops, prepare you with everything you need to know from the development of smart-contracts to the analysis of the new business opportunities made possible by Blockchain technologies."
+		buttonText  = "Get started!"
+
+
+	# Service section
+	[params.services]
+		headline = "Business services"
+		description = "All major aspects of the Blockchain technology ecosystem are covered by our Highly focused workshops. and consulting services"
+
+        [[params.services.list]]
+            icon = "fa-diamond"
+            title = "Smart contract development"
+            description = "Learn to develop smart contracts in three full-day workshops: Basic, intermediate and advanced."
+
+        [[params.services.list]]
+			icon = "fa-linode"
+			title = "Blockchain Business Models"
+			description = "Adapt you business model or create new ones using smart-contracts."
+
+		[[params.services.list]]
+            icon = "fa-newspaper-o"
+            title = "Understanding the Blockchain market"
+            description = "Learn all about the latest developments in the blockchain market, latest trends and investment opportunities."
+
+        [[params.services.list]]
+            icon = "fa-money"
+            title = "Trading in cryptocurrencies"
+            description = "Trading in cryptocurrencies, is maturing really fast. Learn how to start trading in cryptocurrencies."
+
+
+    # Portfolio modals
+	[params.portfolio.modal]
+        client = "Client"
+        date = "Date"
+        category = "Category"
+        buttonText = "Close"
+
+    # Aside section
+	[params.aside]
+		headline = "Workshop Calendar"
+		description = "Click the button below to Download a brochure with our latest Workshop dates and locations!"
+
+		[params.aside.button]
+			text = "Download now"
+			link = "//github.com/digitalcraftsman/hugo-creative-theme"
+
+	# Contact section
+	[params.contact]
+		headline = "Get In Touch!"
+		description = "Ready to start learning about all this? Start a business based on blockchain? Start trading in cryptocurrencies? That's great! Find out about our workshop schedule or gives us a call to learn abut how we can help you."
+		phone = "123-456-6789"
+		email = "learn@blockbyblockchain.com"
+
+	# Google Maps section
+	# [params.location]
+	# 	latitude  = "34.007850"
+	# 	longitude = "-118.499305"
+	# 	maps_api_key = ""
