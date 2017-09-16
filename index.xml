@@ -13,10 +13,10 @@
     
     <item>
       <title>Smart Contract Workshops</title>
-      <link>https://blockbyblockchain.github.io/posts/smart-contracts-workshops/</link>
+      <link>https://blockbyblockchain.github.io/smart-contracts-workshops/</link>
       <pubDate>Thu, 14 Sep 2017 21:06:00 -0300</pubDate>
       
-      <guid>https://blockbyblockchain.github.io/posts/smart-contracts-workshops/</guid>
+      <guid>https://blockbyblockchain.github.io/smart-contracts-workshops/</guid>
       <description>Smart contract development with Solidity. Target audience: Technicians with previous experience in software development, who wish to qualify for an exponentially growing labor market. This workshops focus on the Ethereum platform and the solidity programming language.
 Hands-on 8h modules (1 day):  Basic (€ 500): Introduction to smart contracts. The Ethereum Virtual Machine (EVM). Wallets and addresses. Transactions and messages. Gas and code execution in EVM. Ethereum Blockchain Mining. Ethereum Domain Name System.</description>
     </item>
