@@ -1,4 +1,4 @@
-baseurl = "https://blockbyblockchain.com/"
+baseurl = "http://blockbyblockchain.com/"
 languageCode = "en-us"
 title = "Block by Blockchain"
 theme = "hugo-creative-theme"
