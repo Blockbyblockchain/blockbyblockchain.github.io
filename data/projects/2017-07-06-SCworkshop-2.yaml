@@ -1,0 +1,8 @@
+modalID: 2
+title: Developing smart-contracts. Intermediate module
+date: 2017-07-06
+img: wallet.jpg
+client: Students
+clientLink: "#"
+category: Development Workshops
+description: "**Target audience:** Technicians with previous experience in software development, who wish to qualify for an exponentially growing labor market. This workshops focus on the Ethereum platform and the solidity programming language. **Content:** Setting up a private network for development. Development Tools. Introduction to the Solidity language. ERC20 Token Agreements. Compilation and deploy of contracts. Interaction with contracts through wallets."

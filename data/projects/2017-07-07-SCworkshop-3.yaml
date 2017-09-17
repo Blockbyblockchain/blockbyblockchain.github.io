@@ -1,0 +1,8 @@
+modalID: 3
+title: Developing Smart-contracts. Advanced module
+date: 2017-07-07
+img: dapp.png
+client: Students
+clientLink: "#"
+category: Development Workshop
+description: "**Target audience:** Technicians with previous experience in software development, who wish to qualify for an exponentially growing labor market. This workshops focus on the Ethereum platform and the solidity programming language. **Content:** Advanced frameworks for contract development and deploy. Analysis of vulnerabilities in contracts. Development of DAPPs. Development of contracts in other languages. DAPP deployments. SWARM."

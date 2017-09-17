@@ -1,0 +1,8 @@
+modalID: 1
+title: Developing Smart-contracts Basic module
+date: 2017-07-05
+img: Remix1.jpg
+client: Students
+clientLink: "#"
+category: Development Workshops
+description: "**Target audience:** Technicians with previous experience in software development, who wish to qualify for an exponentially growing labor market. This workshops focus on the Ethereum platform and the solidity programming language. **Content:** Introduction to smart contracts. The Ethereum Virtual Machine (EVM). Wallets and addresses. Transactions and messages. Gas and code execution in EVM. Ethereum Blockchain Mining. Ethereum Domain Name System."
